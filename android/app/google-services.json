@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604656529630",
+    "project_id": "transparetncard",
+    "storage_bucket": "transparetncard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604656529630:android:36c1981d5ac55cd12a124f",
+        "android_client_info": {
+          "package_name": "com.example.transparentcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604656529630-od4g7siefcgjm4o6dq6hjc9lh0solhi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQEXQJx4JfWBXqMoP4QL5iJ79m0D8V25M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604656529630-od4g7siefcgjm4o6dq6hjc9lh0solhi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
